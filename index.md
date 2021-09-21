@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/rubez08/trends-in-baseball)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Trends in Baseball](https://github.com/rubez08/trends-in-baseball)
+<img src="images/Baseball-Through-The-Years.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
